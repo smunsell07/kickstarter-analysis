@@ -12,7 +12,7 @@ To begin the analysis of outcomes based on launch date, a pivot table was constr
 #### Creating a Chart of Theater Outcomes Based on Launch Date
 Since the client is specifically interested in theater outcomes, the pivot table was filtered with *theater* chosen for the category. This chart
 
-![Outcomes_Based_Launch_Date](https://github.com/smunsell07/kickstarter-analysis/) 
+![Outcomes_Based_Launch_Date](https://github.com/smunsell07/kickstarter-analysis/Outcomes_Based_Launch_Date.png/) 
 
 was then created from the table displaying the total outcomes of theater campaigns and the month the Kickstarter campaign began. Each outcome is a different series on the chart. The client can easily see which time of year is most advantageous for lauching a new Kickstarter campaign.
 
@@ -28,7 +28,7 @@ where column D in the Kickstarter data sheet is the goal amount, column F is the
 #### Campaign Outcomes Based on Goal Amounts Chart
 To best help the client visualize the data, this chart
 
-![Outcomes_vs_Goals](https://github.com/smunsell07/kickstarter-analysis/) 
+![Outcomes_vs_Goals](https://github.com/smunsell07/kickstarter-analysis/Outcomes_vs_Goals.png/) 
 
 was developed from the table. Successful, failed and canceled campaigns as a percentage of the total number of campaigns is plotted against the monetary range of the goals. 
 
