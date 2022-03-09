@@ -28,7 +28,7 @@ where column D in the Kickstarter data sheet is the goal amount, column F is the
 #### Campaign Outcomes Based on Goal Amounts Chart
 To best help the client visualize the data, this chart
 
-![Outcomes_vs_Goals](https://github.com/smunsell07/kickstarter-analysis/Outcomes_vs_Goals.png/)
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
 was developed from the table. Successful, failed and canceled campaigns as a percentage of the total number of campaigns is plotted against the monetary range of the goals. 
 
